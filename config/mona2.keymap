@@ -90,7 +90,7 @@
 
         layer_1 {
             bindings = <
-&kp SLASH      &kp UNDERSCORE     &kp ASTERISK      &kp GRAVE      &kp TILDE                    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none           &none             &none
+&kp SLASH      &kp UNDERSCORE     &kp ASTERISK      &kp GRAVE      &kp TILDE                    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &bt BT_SEL 1    &none             &none
 &kp AT_SIGN    &kp HASH           &kp DOLLAR        &kp PERCENT    &kp CARET            &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LESS_THAN   &kp GREATER_THAN  &trans
 &kp AMPERSAND  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp SEMICOLON  &kp COLON  &trans    &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &bt BT_CLR_ALL  &bt BT_SEL 0      &trans
 &trans         &trans             &trans            &trans         &trans     &trans    &trans  &trans                                                                         &trans
