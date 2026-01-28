@@ -62,7 +62,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "EXCLAQUEST";
             #binding-cells = <0>;
-            bindings = <&kp EXCLAMATION>, <&kp QUESTION>;
+            bindings = <&kp EXCLAMATION> <&kp QUESTION>;
         };
     };
 
