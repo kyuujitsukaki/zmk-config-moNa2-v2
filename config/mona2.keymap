@@ -33,7 +33,6 @@
     };
 
     behaviors {
-        
 
         scroll_up_down: mouse_wheel_up_down {
             compatible = "zmk,behavior-sensor-rotate";
@@ -48,7 +47,6 @@
             bindings = <&msc SCRL_LEFT> <&msc SCRL_RIGHT>;
             tap-ms = <20>;
         };
-    };
 
         exclaquest: exclaquest {
             compatible = "zmk,behavior-tap-dance";
