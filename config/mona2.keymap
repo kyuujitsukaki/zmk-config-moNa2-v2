@@ -27,7 +27,6 @@
         delete {
             bindings = <&kp DEL>;
             key-positions = <8 9>;
-            layers = <0 1 2 3 4>;
             timeout-ms = <300>;
         };
     };
